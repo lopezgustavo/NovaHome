@@ -2,7 +2,7 @@ package NovaHom;
 import javax.swing.JOptionPane;
 
 public class Dispotivos{
-
+hola
     private int user;
     private float tv;
 
